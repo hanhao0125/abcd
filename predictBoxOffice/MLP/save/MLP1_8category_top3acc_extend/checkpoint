@@ -1,0 +1,2 @@
+model_checkpoint_path: "MLP1_8category_top3acc_extend.ckpt"
+all_model_checkpoint_paths: "MLP1_8category_top3acc_extend.ckpt"
